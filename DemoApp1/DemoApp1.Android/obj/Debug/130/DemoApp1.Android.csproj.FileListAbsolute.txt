@@ -1,4 +1,0 @@
-C:\Users\marco\OneDrive - Universidad Politecnica de Tecamac\UNIVERSIDAD\OCTAVO CUATRIMESTRE\PROGRAMACIÓN_MOVILES_I\PARCIAL_2\XamarinApp\DemoApp1\DemoApp1\DemoApp1.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
-C:\Users\marco\OneDrive - Universidad Politecnica de Tecamac\UNIVERSIDAD\OCTAVO CUATRIMESTRE\PROGRAMACIÓN_MOVILES_I\PARCIAL_2\XamarinApp\DemoApp1\DemoApp1\DemoApp1.Android\obj\Debug\130\build.props
-C:\Users\marco\OneDrive - Universidad Politecnica de Tecamac\UNIVERSIDAD\OCTAVO CUATRIMESTRE\PROGRAMACIÓN_MOVILES_I\PARCIAL_2\XamarinApp\DemoApp1\DemoApp1\DemoApp1.Android\obj\Debug\130\adb.props
-C:\Users\marco\OneDrive - Universidad Politecnica de Tecamac\UNIVERSIDAD\OCTAVO CUATRIMESTRE\PROGRAMACIÓN_MOVILES_I\PARCIAL_2\XamarinApp\DemoApp1\DemoApp1\DemoApp1.Android\obj\Debug\130\DemoApp1.Android.csproj.AssemblyReference.cache
